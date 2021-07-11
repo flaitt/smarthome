@@ -1,0 +1,10 @@
+org/acme/getting/started/esp8266/Esp8266Response.class
+org/acme/getting/started/GreetingResource.class
+org/acme/getting/started/rabbit/MQTTConsumer.class
+org/acme/getting/started/rabbit/MqttESPMessage.class
+org/acme/getting/started/mongodb/Device.class
+org/acme/getting/started/rabbit/MQTTConsumer$1.class
+org/acme/getting/started/mongodb/SmarthomeService.class
+org/acme/getting/started/mongodb/Environment.class
+org/acme/getting/started/esp8266/Esp8266Controller.class
+org/acme/getting/started/mongodb/House.class
